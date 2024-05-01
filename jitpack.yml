@@ -1,3 +1,3 @@
   install: 
   - FILE="-Dfile=BlinkLib_1.0.0.aar" 
-  - mvn install:install-file $FILE -Dpackaging=aar -DpomFile=pomt.xml
+  - mvn install:install-file $FILE -Dpackaging=aar -DpomFile=pom.xml
