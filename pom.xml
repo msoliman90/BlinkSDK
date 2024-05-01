@@ -4,13 +4,7 @@
   <groupId>com.github.msoliman90</groupId>
   <artifactId>BlinkSDK</artifactId>
   <version>1.0.0</version>
-  <packaging>aar</packaging>
   <dependencies>
-    <dependency>
-      <groupId/>
-      <artifactId>unspecified</artifactId>
-      <version/>
-    </dependency>
     <dependency>
       <groupId>androidx.appcompat</groupId>
       <artifactId>appcompat</artifactId>
