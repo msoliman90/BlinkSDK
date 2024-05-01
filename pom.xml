@@ -6,26 +6,6 @@
   <version>1.0.0</version>
   <dependencies>
     <dependency>
-      <groupId>androidx.appcompat</groupId>
-      <artifactId>appcompat</artifactId>
-      <version>1.5.1</version>
-    </dependency>
-    <dependency>
-      <groupId>com.google.android.material</groupId>
-      <artifactId>material</artifactId>
-      <version>1.7.0</version>
-    </dependency>
-    <dependency>
-      <groupId>androidx.core</groupId>
-      <artifactId>core-ktx</artifactId>
-      <version>1.6.0</version>
-    </dependency>
-    <dependency>
-      <groupId>androidx.constraintlayout</groupId>
-      <artifactId>constraintlayout</artifactId>
-      <version>2.1.4</version>
-    </dependency>
-    <dependency>
       <groupId>org.greenrobot</groupId>
       <artifactId>eventbus</artifactId>
       <version>3.1.1</version>
@@ -41,11 +21,6 @@
       <version>0.4.3</version>
     </dependency>
     <dependency>
-      <groupId>androidx.work</groupId>
-      <artifactId>work-runtime</artifactId>
-      <version>2.2.0</version>
-    </dependency>
-    <dependency>
       <groupId>io.reactivex.rxjava2</groupId>
       <artifactId>rxjava</artifactId>
       <version>2.1.8</version>
@@ -54,11 +29,6 @@
       <groupId>io.reactivex.rxjava2</groupId>
       <artifactId>rxandroid</artifactId>
       <version>2.0.1</version>
-    </dependency>
-    <dependency>
-      <groupId>com.jakewharton.rxbinding2</groupId>
-      <artifactId>rxbinding</artifactId>
-      <version>2.0.0</version>
     </dependency>
     <dependency>
       <groupId>com.squareup.retrofit2</groupId>
@@ -94,11 +64,6 @@
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-location</artifactId>
       <version>19.0.1</version>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin</groupId>
-      <artifactId>kotlin-stdlib</artifactId>
-      <version>1.6.21</version>
     </dependency>
     <dependency>
       <groupId>com.github.psambit9791</groupId>
